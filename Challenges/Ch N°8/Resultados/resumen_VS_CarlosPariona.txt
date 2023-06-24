@@ -1,0 +1,10 @@
+./lig_opt_1.log    -7.9
+./lig_opt_10.log    -7.2
+./lig_opt_2.log    -8.9
+./lig_opt_3.log    -7.7
+./lig_opt_4.log    -7.5
+./lig_opt_5.log    -8.7
+./lig_opt_6.log    -7.3
+./lig_opt_7.log    -8.6
+./lig_opt_8.log    -8.6
+./lig_opt_9.log    -9.2
