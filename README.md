@@ -1,7 +1,7 @@
 # 1CAY58-Reconocimiento-de-Patrones
 Curso: Reconocimiento de Patrones
 
-## Grupo 1 Integrandes:
+## Grupo 1 Integrantes:
 * Fiorella Ojeda Quispe
 * Carlos Pariona Aguinaga
 
